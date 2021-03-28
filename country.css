@@ -3,11 +3,13 @@ body {
   background-color: #5bc9e1;
 }
 main {
-  color: black;
   background-color: white;
   background: -moz-linear-gradient(bottom left, red, white, white, red);
   background: -webkit-linear-gradient(bottom left, red, white, white, red);
   background: linear-gradient(to right top, red, white, white, red);
+  font-family: Comic Sans MS;
+  font-size: 16pt;
+  color: black;
 }
 h1 {
   padding: 20px;
@@ -18,15 +20,12 @@ h1 {
 }
 h2 {
   padding: 20px;
-  font-family: Comic Sans MS;
   font-size: 20pt;
   text-align: center;
   margin-bottom: 0em;
 }
 p {
   padding: 10px;
-  font-family: Comic Sans MS;
-  font-size: 16pt;
   margin-top: 0em;
   margin-bottom: 0em;
 }
