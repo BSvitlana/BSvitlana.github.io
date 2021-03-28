@@ -30,6 +30,10 @@ p {
   margin-top: 0em;
   margin-bottom: 0em;
 }
+.left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
 .right {
   float: right;
   margin: 0 1em 1em 0;
